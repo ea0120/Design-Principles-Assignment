@@ -1,0 +1,31 @@
+body{
+
+ }
+
+main{
+    display: grid;
+    grid-template-columns: lfr;
+    font-size: 0.8rem;
+}
+
+main section{
+
+ }
+main picture{
+
+ }
+.colimage{ 
+
+}
+
+@media only screen and (min-width: 37.5em){
+    
+}
+
+main{
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+article:nth-child(3){
+
+}
